@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thien Hoan",
+      "birthday": "17/09/2001",
+      "email": "nguyenthienhoanegatam@gmail.com",
+      "phone": "0794676336",
+      "gender": "Male"
+    }
+  ],
+  "accommodations": [
+    {
+      "name": "Nhatro1",
+      "id": 73,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    },
+    {
+      "name": "Nhatro1",
+      "id": 89,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    },
+    {
+      "name": "Nhatro1",
+      "id": 93,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    },
+    {
+      "name": "Nhatro1",
+      "id": 97,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    },
+    {
+      "name": "Nhatro1",
+      "id": 101,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    },
+    {
+      "name": "Nhatro1",
+      "id": 106,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    },
+    {
+      "name": "Nhatro1",
+      "id": 110,
+      "address": "123/10",
+      "description": "Còn trống",
+      "toilets": 2,
+      "rooms": 3,
+      "price": 1000000.1,
+      "floor": 2,
+      "wifi_Access": true,
+      "available": 3,
+      "area": 30,
+      "people": 1,
+      "image_Url": "https://firebasestorage.googleapis.com/v0/b/algebraic-fin-332903.appspot.com/o/Bo-bit-tet-va-7-cap-do-chin-1.jpg?alt=media&token=3d5d0385-1bfa-4693-8e59-6e038a2bef45"
+    }
+  ]
+}
